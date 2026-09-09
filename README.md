@@ -144,6 +144,8 @@ The model is loaded using the Hugging Face Transformers `pipeline()` API.
 * User authentication
 * Deploy the application online
 
-## License
+## project
+https://text-generation-using-app-anpxy2tktcnvbpykbgf8xq.streamlit.app/
+<img width="914" height="579" alt="image" src="https://github.com/user-attachments/assets/f1388c5a-2c81-4b61-a47b-33aa899994c9" />
 
-This project is created for **educational and learning purposes**.
+
